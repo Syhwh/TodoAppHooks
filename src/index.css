@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.done{
+color: green;
+  text-decoration: line-through;
+}
+.undone{
+color:red
+}
+
